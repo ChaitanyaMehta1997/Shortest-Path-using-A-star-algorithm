@@ -1,1 +1,1 @@
-# Shortest-Path-using-A_Star-algorithm
+# Shortest-Path-using-A-Star-algorithm
